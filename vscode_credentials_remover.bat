@@ -1,0 +1,1 @@
+for /f "tokens=1,2 delims= " %%G in ('cmdkey /list ^| findstr vscode') do cmdkey /delete:%%H
