@@ -2,7 +2,7 @@
 Dealing with the issue of repeated login when loading VS Code
 
 ## Info
-Platform： Windows 10  
+Platform: Windows 10  
 Issue: VS Code repeatly asks login to sync everytime when you reload it.  
 Solve: Remove all redundant credentials related to VS Code in Windows Credential Manager.  
 
